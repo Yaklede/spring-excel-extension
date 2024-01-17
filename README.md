@@ -2,6 +2,9 @@
 
 You can easily create an Excel file in the spring.
 
+**Note:** This library supports Spring Boot version 3 and above because the `javax` package has been changed to `jakarta`.
+
+
 # What is Spring excel extension
 
 - The "Spring Excel Extension" is an enhancement designed to facilitate easier extraction of Excel files for users of
