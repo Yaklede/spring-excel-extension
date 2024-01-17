@@ -89,8 +89,6 @@ excelList.toExcelFile(fileName = "excel-info", response = response)
 
 ```kotlin
 import jakarta.servlet.http.HttpServletResponse
-import kr.co.bigs.extension.excel.annotation.ExcelColumn
-import kr.co.bigs.extension.excel.provider.toExcelFile
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
