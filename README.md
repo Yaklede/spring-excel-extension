@@ -12,7 +12,7 @@ You can easily create an Excel file in the spring.
 
 # Gradle
 ```kotlin
-implementation("io.github.Yaklede:spring-excel-extension:0.0.2")
+implementation("io.github.Yaklede:spring-excel-extension:0.0.3")
 ```
 
 # How to Use

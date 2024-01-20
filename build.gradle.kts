@@ -35,7 +35,7 @@ dependencies {
 	implementation("io.github.Yaklede:empty-object-generator:0.2.3")
 
 	//kotlin
-	implementation("org.jetbrains.kotlin:kotlin-reflect")
+	implementation("org.jetbrains.kotlin:kotlin-reflect:1.9.20")
 
 	///test
 	implementation("org.junit.jupiter:junit-jupiter-api:5.7.2")
