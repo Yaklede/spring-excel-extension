@@ -1,6 +1,6 @@
 ext {
     PUBLISH_GROUP_ID = 'io.github.Yaklede'
-    PUBLISH_VERSION = '0.0.1'
+    PUBLISH_VERSION = '0.0.2'
     PUBLISH_ARTIFACT_ID = 'spring-excel-extension'
     PUBLISH_DESCRIPTION = 'Easily Create An Excel File In The Spring Library'
     PUBLISH_URL = 'https://github.com/Yaklede/spring-excel-extension'
