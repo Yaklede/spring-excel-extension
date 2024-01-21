@@ -32,7 +32,7 @@ dependencies {
 	implementation("org.apache.commons:commons-compress:1.21")
 
 	//empty generator
-	implementation("io.github.Yaklede:empty-object-generator:0.2.3")
+	implementation("io.github.Yaklede:empty-object-generator:0.2.4")
 
 	//kotlin
 	implementation("org.jetbrains.kotlin:kotlin-reflect:1.9.20")
